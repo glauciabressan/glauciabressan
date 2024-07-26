@@ -4,11 +4,9 @@
 <p>
   <h1 align="center"><b>Hi there, I'm Glaucia Bressan</h1>
 </p>
-
 <p align="center">
 
-<a href="mailto:galbressan@gmail.com"><img src="https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=GMAIL&logoColor=white" alt="GMAIL" /></a>&nbsp;
-<p align="center">
+<a href="mailto:galbressan@gmail.com"><img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"
 <a href="https://github.com/glauciabressan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="https://orcid.org/0000-0001-6996-3129"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
 </p>
