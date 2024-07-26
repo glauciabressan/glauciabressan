@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**glauciabressan/glauciabressan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p>
   <h1 align="center"><b>Hi there, I'm Glaucia Bressan</h1>
