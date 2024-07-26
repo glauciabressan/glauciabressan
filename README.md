@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-
-<p>
   <h1 align="center"><b>Hi there, I'm Glaucia Bressan</h1>
+</p>
 
 <p align="center">
 
