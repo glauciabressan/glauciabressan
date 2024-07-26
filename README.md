@@ -10,7 +10,6 @@
 <a href="https://github.com/glauciabressan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
 <a href="https://orcid.org/0000-0001-6996-3129"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
 
-<p align="center">
 </p>
 
 <br />
@@ -41,8 +40,9 @@ Timezone: Brasília - Brazil (GMT-3)
 <p align="center">
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
 <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>&nbsp;
-</p>
 <a href="https://www.mathworks.com//"><img src="https://img.shields.io/badge/MATLAB&logo=r&logoColor=white" alt="MATLAB" /></a>&nbsp;
+<a href="https://www.overleaf.com//"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white " alt="LATEX" /></a>&nbsp;
+
 </p>
 
 ---
