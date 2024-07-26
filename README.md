@@ -3,7 +3,7 @@
 
 <p>
   <h1 align="center"><b>Hi there, I'm Glaucia Bressan</h1>
-</p>
+
 <p align="center">
 
 <a href="mailto:galbressan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL" /></a>&nbsp;
